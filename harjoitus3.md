@@ -34,7 +34,7 @@ Kyseinen komento ajaa siis kaiken ja sain nyt sellaisen käsityksen, että täll
 
 ## E) Tee tyhmä muutos gittiin
 
-1. harjoitus3 hakemistossa muutin testi.txt tiedostoa -->                                                   mv testi.txt testimuutos.txt ja muokkasin sisältöä.
+1. harjoitus3 hakemistossa muutin testi.txt tiedostoa --> `mv testi.txt testimuutos.txt` ja muokkasin sisältöä.
 
 2. `git reset --hard`
 
@@ -42,13 +42,13 @@ Kyseinen komento ajaa siis kaiken ja sain nyt sellaisen käsityksen, että täll
 
 ## F) Uusi salt-moduli
 
-1. Päätin asentaa openvpn
+1. Päätin asentaa openvpn (mietin konfigurointia, mutta aivokapasiteetti ei riittänyt muuhun kuin miettimiseen)
 
 2. Loin kansion --> `sudo mkdir /srv/salt/openvpn/`
 
 3. Sisälle loin init.sls tiedoston:
 
-4. `sudo salt '*' state.apply openvpn` , ajoin komennon kaksi kertaa varmistuakseni modulin asennuksesta.
+4. `sudo salt '*' state.apply openvpn` , ajoin komennon kaksi kertaa varmistuakseni modulin asennuksesta idempotenttina.
 
 
 ### Lähteet:
