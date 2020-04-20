@@ -5,3 +5,6 @@
 ## A) Tehdään raportti MarkDownina.
 
   Ensimmäiseksi päivitin järjestelmän ja asensin gitin. `sudo apt-get updae`
+
+
+## D) Näytä `git lo
