@@ -14,7 +14,7 @@
 
 4. Loin githubissa uuden hakemiston. (Lisäsin README -tiedoston sekä GNU General Public License v3.0 ja hakemiston nimesin "harjoitus3"
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/dP0dNCm" data-context="false" ><a href="//imgur.com/a/dP0dNCm"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![1]
 
 5. Kloonasin uunituoreen hakemistoni virtuaalikoneelle --> `git clone https://github.com/patriksulander/harjoitus3.git`
 
@@ -66,3 +66,6 @@ Kyseinen komento ajaa siis kaiken ja sain nyt sellaisen käsityksen, että täll
 <!-- wp:paragraph -->
 <p>https://github.com/salt-formulas/salt-formula-openvpn   Luettu: 21.4.2020</p>
 <!-- /wp:paragraph -->
+
+
+[1]: https://imgur.com/a/dP0dNCm
