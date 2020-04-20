@@ -14,9 +14,9 @@
 
 4. Loin githubissa uuden hakemiston. (Lisäsin README -tiedoston sekä GNU General Public License v3.0 ja hakemiston nimesin "harjoitus3"
 
-5. Kloonasin uunituoreen hakemistoni virtuaalikoneelle -->git clone https://github.com/patriksulander/harjoitus3.git
+5. Kloonasin uunituoreen hakemistoni virtuaalikoneelle --> `git clone https://github.com/patriksulander/harjoitus3.git`
 
-6. Loin uuden MarkDown tiedoston hakemistoon-->sudo vim harjoitus3.md  
+6. Loin uuden MarkDown tiedoston hakemistoon--> `sudo vim harjoitus3.md`  
 
 7. Kokeilin toimiiko muutokset Teron opettamalla komennolla: 
     `git add . && git commit; git pull && git push`
@@ -44,7 +44,7 @@ Kyseinen komento ajaa siis kaiken ja sain nyt sellaisen käsityksen, että täll
 
 1. Päätin asentaa openvpn
 
-2. Loin kansion --> sudo mkdir /srv/salt/openvpn/
+2. Loin kansion --> `sudo mkdir /srv/salt/openvpn/`
 
 3. Sisälle loin init.sls tiedoston:
 
