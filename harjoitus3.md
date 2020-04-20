@@ -68,4 +68,6 @@ Kyseinen komento ajaa siis kaiken ja sain nyt sellaisen käsityksen, että täll
 <!-- /wp:paragraph -->
 
 
-[1]: https://imgur.com/a/dP0dNCm "1"
+[1]: [Imgur](https://imgur.com/XogDp1u) "1"
+
+[Imgur](https://imgur.com/XogDp1u)
