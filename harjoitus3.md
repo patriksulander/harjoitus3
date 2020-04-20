@@ -1,5 +1,7 @@
-#harjoitus3
+# Palvelinten hallinta - harjoitus3
 
-Moi
+###### Aloitettu 20.4.2020 klo. 15:00
 
-testi
+## A) Tehdään raportti MarkDownina.
+
+  Ensimmäiseksi päivitin järjestelmän ja asensin gitin. `sudo apt-get updae`
