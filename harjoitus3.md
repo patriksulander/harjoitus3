@@ -4,9 +4,9 @@
 
 ## A) Tehdään raportti MarkDownina.
 
-  Ensimmäiseksi päivitin järjestelmän ja asensin gitin. 
+Ensimmäiseksi päivitin järjestelmän ja asensin gitin. 
  
- 1.`sudo apt-get update`
+1.`sudo apt-get update`
 
 2.`sudo apt-get install git`
 
