@@ -14,7 +14,7 @@
 
 4. Loin githubissa uuden hakemiston. (Lisäsin README -tiedoston sekä GNU General Public License v3.0 ja hakemiston nimesin "harjoitus3"
 
-![1] (https://imgur.com/a/dP0dNCm)
+  ![1] ([Imgur](https://imgur.com/XogDp1u))
 
 5. Kloonasin uunituoreen hakemistoni virtuaalikoneelle --> `git clone https://github.com/patriksulander/harjoitus3.git`
 
