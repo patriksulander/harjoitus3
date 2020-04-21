@@ -14,7 +14,7 @@
 
 4. Loin githubissa uuden hakemiston. (Lisäsin README -tiedoston sekä GNU General Public License v3.0 ja hakemiston nimesin "harjoitus3"
 
-![1]
+![1] (https://imgur.com/a/dP0dNCm)
 
 5. Kloonasin uunituoreen hakemistoni virtuaalikoneelle --> `git clone https://github.com/patriksulander/harjoitus3.git`
 
@@ -68,6 +68,5 @@ Kyseinen komento ajaa siis kaiken ja sain nyt sellaisen käsityksen, että täll
 <!-- /wp:paragraph -->
 
 
-[1]: [Imgur](https://imgur.com/XogDp1u) "1"
 
-[Imgur](https://imgur.com/XogDp1u)
+
